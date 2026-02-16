@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Nexus RAG",
+  "description": "A high-performance RAG (Retrieval-Augmented Generation) dashboard using Gemini's long-context capabilities and search grounding for intelligent document conversation.",
+  "requestFramePermissions": []
+}
