@@ -10,7 +10,7 @@ const App: React.FC = () => {
     {
       id: '1',
       role: 'model',
-      content: 'Hello! I am Nexus. Your documents are uploaded. You can now query them directly or click "Summarize Knowledge Base" for an overview.',
+      content: 'Hello! I am Leafywell Wellness AI. Your documents are uploaded. You can now query them directly or click "Summarize Knowledge Base" for an overview.',
       timestamp: new Date()
     }
   ]);
@@ -224,7 +224,7 @@ const App: React.FC = () => {
             </div>
             <div className="flex items-center justify-between mt-3 px-2">
               <p className="text-[10px] text-slate-600 font-bold uppercase tracking-widest">
-                Nexus Intelligence Layer v1.0
+                MyIAD Intelligence Layer v1.0
               </p>
               {documents.length > 0 && (
                 <div className="flex items-center gap-1.5 text-[10px] text-blue-500/70 font-bold uppercase tracking-widest">

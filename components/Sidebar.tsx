@@ -31,7 +31,7 @@ const Sidebar: React.FC<SidebarProps> = ({
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
           </svg>
         </div>
-        <h1 className="text-xl font-bold tracking-tight">Nexus RAG</h1>
+        <h1 className="text-xl font-bold tracking-tight">Leafywell AI RAG</h1>
       </div>
 
       <div className="mb-8">
