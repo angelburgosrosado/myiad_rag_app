@@ -1,9 +1,4 @@
 {
-  "version": 2,
-  "functions": {
-    "api/chat.js":   { "runtime": "edge" },
-    "api/health.js": { "runtime": "edge" }
-  },
   "rewrites": [
     { "source": "/api/chat",   "destination": "/api/chat.js"   },
     { "source": "/api/health", "destination": "/api/health.js" },
